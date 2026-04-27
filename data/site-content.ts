@@ -14,7 +14,7 @@ import type {
   Testimonial,
 } from "@/types/site";
 
-const brandLogo = "/accredian-logo.webp";
+const brandLogo = "/accredian-logo.svg";
 
 const heroImage =
   "https://storage.googleapis.com/accredian-assets/Frontend_Assests/Images/Accredian-react-site-images/other/corporate-big-hero-v4.webp";

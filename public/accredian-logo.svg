@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="76" viewBox="0 0 300 76" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Accredian</title>
+  <desc id="logoDesc">Accredian credentials that matter</desc>
+  <rect width="300" height="76" fill="none"/>
+  <g fill="#2473EA">
+    <text x="10" y="40" font-family="Manrope, Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="0.4">accredian</text>
+  </g>
+  <g fill="#6B7280">
+    <text x="12" y="60" font-family="Manrope, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2">credentials that matter</text>
+  </g>
+</svg>
