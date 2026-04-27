@@ -14,8 +14,7 @@ import type {
   Testimonial,
 } from "@/types/site";
 
-const brandLogo =
-  "https://storage.googleapis.com/accredian-assets/Frontend_Assests/Images/Accredian-react-site-images/logo/accredainnew.webp";
+const brandLogo = "/accredian-logo.webp";
 
 const heroImage =
   "https://storage.googleapis.com/accredian-assets/Frontend_Assests/Images/Accredian-react-site-images/other/corporate-big-hero-v4.webp";
@@ -424,7 +423,7 @@ export const siteContent = {
     ctaLabel: "Enquire Now",
     supportLabel: "Speak with our Advisor",
     copyright:
-      "© 2026 Accredian A Brand of FullStack Education Pvt Ltd. All Rights Reserved",
+      "(c) 2026 Accredian A Brand of FullStack Education Pvt Ltd. All Rights Reserved",
   },
 };
 

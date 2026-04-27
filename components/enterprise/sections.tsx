@@ -574,7 +574,7 @@ export function FooterSection({ onEnquire }: ActionProps) {
               alt={siteContent.brand.logo.alt}
               width={siteContent.brand.logo.width}
               height={siteContent.brand.logo.height}
-              className="h-auto w-36 brightness-[1.8] contrast-[1.05]"
+              className="h-auto w-36 rounded-lg bg-white px-2 py-1"
             />
             <p className="mt-4 max-w-md text-sm leading-7 text-white/70">
               Enterprise-focused upskilling programs built for modern teams,

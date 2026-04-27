@@ -30,7 +30,7 @@ export function Header({ activeSection, navItems, onEnquire }: HeaderProps) {
             width={siteContent.brand.logo.width}
             height={siteContent.brand.logo.height}
             priority
-            className="h-auto w-32 sm:w-36"
+            className="h-auto w-32 min-w-32 object-contain sm:w-36 sm:min-w-36"
           />
           <span className="font-display text-sm font-semibold tracking-wide text-brand lg:hidden">
             Accredian
